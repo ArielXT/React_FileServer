@@ -1,0 +1,7 @@
+body{
+    padding-top: calc(75);
+    background-image: url("./img/shibuya.png");
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    color: white;
+}
