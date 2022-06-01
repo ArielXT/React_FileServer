@@ -1,15 +1,17 @@
-# React File Upload
+# ReactJS FileServer
 
-> This is a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
+> Este proyecto utiliza 2 proyectos de NodeJS, uno siendo el server (BackEnd) y el Otro la vista (FrontEnd)
 
-## Quick Start
+## INSTALACIÓN
 
 ```bash
-# Install dependencies server/client
+# Instalamos las dependencias del server
 npm install
+# Luego entramos a la carpeta de "client"
 cd client
+# Instalamos las dependencias
 npm install
 
-# Serve on localhost:3000
+# El server se encuentra en : http://localhost:3000
 npm run dev
 ```
