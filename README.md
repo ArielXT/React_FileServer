@@ -13,8 +13,12 @@ npm install
 cd client
 # Instalamos las dependencias
 npm install
+```
 
-# El server se encuentra en : http://localhost:3000
+```bash
+# Iniciamos en carpeta principal y asi es que escribiremos: 
 npm run dev
 ```
-![](docs/salida.png)
+![](docs/instalacion.png)
+
+>El server se encuentra en : http://localhost:3000
